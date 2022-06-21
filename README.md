@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/javascript-promises-api-mobile-first-design-O2cqrNeFkr](https://www.frontendmentor.io/solutions/javascript-promises-api-mobile-first-design-O2cqrNeFkr)
 - Live Site URL: [https://mv805.github.io/advice-generator-app-main/](https://mv805.github.io/advice-generator-app-main/)
 
 ## My process
